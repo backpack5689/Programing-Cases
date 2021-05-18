@@ -16,3 +16,5 @@ The chart below will denote the following:
 |05/11/2021|[Hello World!](https://open.kattis.com/problems/hello)|hello_world.py|hello|1.2|
 |05/18/2021|[Cold-puter Science](https://open.kattis.com/problems/cold)|cold-puter_science.py|cold|1.2|
 |05/18/2021|[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|fizzbuzz.py|fizzbuzz|1.3|
+|05/18/2021|[Symmetric Order](https://open.kattis.com/problems/symmetricorder<Paste>)|symmetric_order.py|symmetricorder|1.5|
+
