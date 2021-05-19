@@ -17,4 +17,4 @@ The chart below will denote the following:
 |05/18/2021|[Cold-puter Science](https://open.kattis.com/problems/cold)|cold-puter_science.py|cold|1.2|
 |05/18/2021|[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|fizzbuzz.py|fizzbuzz|1.3|
 |05/18/2021|[Symmetric Order](https://open.kattis.com/problems/symmetricorder<Paste>)|symmetric_order.py|symmetricorder|1.5|
-
+|05/19/2021|[Soda Slurper](https://open.kattis.com/problems/sodaslurper)|soda_slurper.py|sodaslurper|1.5|
